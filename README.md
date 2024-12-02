@@ -2,7 +2,7 @@
 
 ## 📒 Sobre
 <p align="center">Repositório para armazenar imagens de projetos</p>
-<p >Artigo: https://medium.com/@joaopedrovolponi/configura%C3%A7%C3%A3o-inicial-viewcode-sem-storyboard-44f2f987b133</p>
+<p >Portfólio: www.joaopedrovolponi.com</p>
 
 ## 🛠️ Tecnologias e Ferramentas
 - Swift
