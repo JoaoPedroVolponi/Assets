@@ -1,22 +1,12 @@
 # Assets - Projetos
 
 ## 📒 Sobre
-<p align="center">Configuração inicial de um projeto com a linguagem de programação Swift utilizando ViewCode (UIKit)</p>
+<p align="center">Repositório para armazenar imagens de projetos</p>
 <p >Artigo: https://medium.com/@joaopedrovolponi/configura%C3%A7%C3%A3o-inicial-viewcode-sem-storyboard-44f2f987b133</p>
 
 ## 🛠️ Tecnologias e Ferramentas
 - Swift
-- UIkit
-- ViewCode
-
-## ▶️ Funcionalidades
-- Configuração inicial do Projeto
-
-### 📱 Capturas de tela do aplicativo
-
-|       🍏       |              ViewController               |  
-| :------------: | :----------------------------------------|
-| Tela | <img src="https://github.com/JoaoPedroVolponi/assets/blob/main/swift/configuracao-viewcode/viewController.png" width="220px;" height="400" />
+- React
 
 ## ✨ Autor
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
