@@ -7,6 +7,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 - Swift
 - React
+- Angular
 
 ## ✨ Autor
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
